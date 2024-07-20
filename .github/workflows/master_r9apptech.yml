@@ -53,4 +53,4 @@ jobs:
           app-name: 'R9apptech'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAD502B1EAD74D4F863B0012E34E242D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA78094619B843DB93CB0D09315970E9 }}
